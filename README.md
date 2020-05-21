@@ -11,3 +11,6 @@ https://towardsdatascience.com/understand-text-summarization-and-create-your-own
 https://gist.github.com/sebleier/554280
 
 https://www.analyticsvidhya.com/blog/2018/11/introduction-text-summarization-textrank-python/
+
+
+https://youtu.be/KKpf0EcgkUU
